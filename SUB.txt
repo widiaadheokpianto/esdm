@@ -1,0 +1,39 @@
+ID
+username
+password
+level
+nip
+nama
+jenis_kelamin
+tempat_lahir
+tanggal_lahir
+alamat		
+no_npwp			//alamat sekarang
+no_askes		//notlp
+no_karpeg		//email
+nik				//dosbim
+golongan_ruang	//jurusan
+eselon 			//fakultas
+
+==================================================
+
+GOLRUANG/PANGKAT : 
+I/A:JURU MUDA
+I/B:JURU MUDA TINGKAT I
+I/C:JURU
+I/D:JURU TINGKAT I
+II/A:PENGATUR MUDA
+II/B:PENGATUR MUDA TINGKAT I
+II/C:PENGATUR
+II/D:PENGATUR TINGKAT I
+III/A:PENATA MUDA
+III/B:PENATA MUDA TINGKAT I
+III/C:PENATA
+III/D:PENATA TINGKAT I
+IV/A:PEMBINA
+IV/B:PEMBINA TINGKAT I
+IV/C:PEMBINA UTAMA MUDA
+IV/D:PEMBINA UTAMA MADYA
+IV/E:PEMBINA UTAMA
+
+ESELON = I.A, I.B SAMPAI V.A, VB, NON ESELON
